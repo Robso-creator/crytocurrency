@@ -1,0 +1,14 @@
+button {
+    border: none;
+    border-radius: 10px;
+    background-color: #0fae96;
+    padding: 12px 20px;
+    color: #ecf1f0;
+  
+    font-family: "Raleway", sans-serif;
+    font-weight: normal;
+  }
+  
+  button:hover{
+      background-color: #3ed6bf;
+  }

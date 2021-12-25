@@ -1,0 +1,45 @@
+body {
+    background-color: #11011e;
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+  /*Text Styles*/
+  
+  h1,
+  h2,
+  .write {
+    color: #ecf1f0;
+  }
+  
+  h1,
+  h2,
+  a {
+    font-family: "Raleway", sans-serif;
+  }
+  a {
+    font-weight: 600;
+  }
+  p,
+  .write tr td {
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    color: #b6b6b6;
+  }
+  .wt {
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+  }
+  
+  logo {
+    font-family: "Raleway", sans-serif;
+    color: #ecf1f0;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  logo b,
+  .home {
+    color: #0fae96;
+  }
+  
