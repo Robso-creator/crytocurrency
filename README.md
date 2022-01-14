@@ -1,4 +1,3 @@
-
 # Cryptocurrency
 
 Site que "acompanha" as variações das cryptomoedas, foi desenvolvido por mim usando este template do [figma](https://www.figma.com/file/u9HRSMemuCF12EVNp2Dnj7/Cryptocurrency-Landing-Page-(Community)?node-id=0%3A1).
@@ -17,7 +16,7 @@ I made this site in html5 and css based on this [figma template](https://www.fig
 ## Learnings
 
 I implemented some concepts of responsiveness using flex-blox, and my biggest challenge was exactly this, make all elements work regardless of the screen size.
-## Autores
+## Authors
 
 - Template by: [@bdyhm](https://www.figma.com/@bdyhm);
 - Developed by: [@Robson](https://www.linkedin.com/in/robson-allef/).
