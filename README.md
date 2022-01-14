@@ -12,7 +12,7 @@ Incrementei conceitos de responsividade utilizando flex-box, sendo o meu maior d
 
 ## English version
 
-I made this site in html5 and css based on this figma template, it "follows" the cryptocoins values. You can use this link to access it!
+I made this site in html5 and css based on this [figma template](https://www.figma.com/file/u9HRSMemuCF12EVNp2Dnj7/Cryptocurrency-Landing-Page-(Community)?node-id=0%3A1), it "follows" the cryptocoins values. You can use this [link](https://robso-creator.github.io/crytpocurrency/) to access it!
 
 ## Learnings
 
